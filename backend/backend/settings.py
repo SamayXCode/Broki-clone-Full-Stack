@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-srx$+qbdk6@)8$^2^=jp_)an7_kcm@xojl#nkomlzjb&cg@ogg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['broki-clone-full-stack.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
