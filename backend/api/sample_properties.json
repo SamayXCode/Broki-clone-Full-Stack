@@ -1,0 +1,36 @@
+{
+  "property": [
+    {
+      "name": "Running Kiosk is on lease in Noida",
+      "category": 1,
+      "price": 50000,
+      "price_format": "₹50 Thousand",
+      "address": "Sector 142, Noida, Uttar Pradesh",
+      "status": true,
+      "premium_property": false,
+      "price_duration": "monthly",
+      "property_image": "https://admin.broki.in/storage/1280/1000011289.jpg",
+      "property_for": 1,
+      "advertisement_property": false,
+      "advertisement_property_date": null,
+      "city": 3,
+      "sqft": 500
+    },
+    {
+      "name": "Cloud kitchen for lease in pune",
+      "category": 3,
+      "price": 32000,
+      "price_format": "₹32 Thousand",
+      "address": "Sade Satra Nali, Lonkar Nagar, Pune, Maharashtra",
+      "status": true,
+      "premium_property": true,
+      "price_duration": "monthly",
+      "property_image": "https://admin.broki.in/storage/1273/1000010951.jpg",
+      "property_for": 1,
+      "advertisement_property": false,
+      "advertisement_property_date": null,
+      "city": 2,
+      "sqft": 1000
+    }
+  ]
+}
